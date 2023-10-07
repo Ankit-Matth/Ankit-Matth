@@ -2,7 +2,7 @@
 <h3 align="center">Web Development Enthusiast | Content Creator | Engineering Student</h3>
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
-<img align="right" alt="coding" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkamsoft.co%2Fiphone-app-development&psig=AOvVaw1HBCzfemoKIEudsvyf0AyS&ust=1696741525542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiz9aSV44EDFQAAAAAdAAAAABAL">
+
 - 🏫 Currently, in **3rd year (5th Semester).**
 
 - 📧 Email me - **ankitmatth111@gmail.com**

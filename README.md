@@ -29,3 +29,4 @@
 
 <h3>Hacktoberfest Rewards</h3>
 
+[![An image of @ankitmatth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitmatth)](https://holopin.io/@ankitmatth)

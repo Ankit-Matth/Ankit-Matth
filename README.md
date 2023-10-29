@@ -21,7 +21,6 @@
 <a href="https://codepen.io/webmagicofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="webmagicofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-matth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-matth" height="30" width="40" /></a>
 <a href="https://instagram.com/ankit_matth_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/webmagicofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webmagicofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

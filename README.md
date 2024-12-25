@@ -19,11 +19,10 @@
 <h3 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="20" height="20"> Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-matth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-matth" height="40" width="50" /></a>
-<a href="https://twitter.com/ankit_matth/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3a6936b-a575-41b6-a7df-902d54c42ce9" alt="ankit-matth" height="30" width="35" /></a>
 <a href="https://www.leetcode.com/ankit-matth" target="blank"><img align="center" src="https://github.com/user-attachments/assets/adf2daaf-813f-4ec2-be2d-38f8c62dd3f1" alt="ankit-matth" height="39" width="36" /></a>
-<a href="https://instagram.com/ankit_matth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="40" width="50" /></a>
-<a href="https://ankit-matth-portfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="ankit-matth" height="40" width="40" /></a>
-<a href="https://discordapp.com/users/1160007440901881856" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="ankit-matth" height="50" width="50" /></a>
+<a href="https://instagram.com/ankit_matth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_" height="40" width="50" /></a>
+<a href="https://twitter.com/ankit_matth/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3a6936b-a575-41b6-a7df-902d54c42ce9" alt="ankit-matth" height="30" width="35" /></a>
+<a href="https://ankit-matth-portfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="ankit-matth" height="37" width="39" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>

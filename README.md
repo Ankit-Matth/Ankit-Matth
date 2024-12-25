@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
 <h3 align="center">🎓Engineering Student | ✨Aspiring MERN Stack Developer | 🎧Music Lover</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
+<img align="right" alt="coding" width="350" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
 <br>
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
 
 - 🏫 Currently, in **final year (7th Semester).**
 
-- 👨‍💻 I’m currently learning **Data Structures & Algorithms.**
-
-- ⚡ Just trying to join the top 1% **MERN Developer Club.**
+- ⚡ Striving to join the top **1% MERN Developers.**
 
 - 💬 Ask me about **Frontend, Backend, & Databases.**
 
-- 📧 Email me at - **ankitmatth101@gmail.com**
+- 👨‍💻 I’m currently learning **Data Structures & Algorithms.**
 
-<h3 align="left">Connect with me:</h3>
+- 📧 Feel free to email me at -- **ankitmatth101@gmail.com**
+
+<h3 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="20" height="20"> Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-matth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-matth" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/ankit-matth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit-matth" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit_matth_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="40" width="50" /></a>
+<a href="https://twitter.com/ankit_matth/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3a6936b-a575-41b6-a7df-902d54c42ce9" alt="ankit-matth" height="30" width="35" /></a>
+<a href="https://www.leetcode.com/ankit-matth" target="blank"><img align="center" src="https://github.com/user-attachments/assets/adf2daaf-813f-4ec2-be2d-38f8c62dd3f1" alt="ankit-matth" height="39" width="36" /></a>
+<a href="https://instagram.com/ankit_matth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="40" width="50" /></a>
+<a href="https://ankit-matth-portfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="ankit-matth" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="ankit-matth" height="50" width="50" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>

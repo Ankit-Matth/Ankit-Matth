@@ -23,7 +23,7 @@
 <a href="https://www.leetcode.com/ankit-matth" target="blank"><img align="center" src="https://github.com/user-attachments/assets/adf2daaf-813f-4ec2-be2d-38f8c62dd3f1" alt="ankit-matth" height="39" width="36" /></a>
 <a href="https://instagram.com/ankit_matth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_matth_official" height="40" width="50" /></a>
 <a href="https://ankit-matth-portfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="ankit-matth" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="ankit-matth" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1160007440901881856" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="ankit-matth" height="50" width="50" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>

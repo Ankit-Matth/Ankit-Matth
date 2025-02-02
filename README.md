@@ -6,7 +6,7 @@
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
 
-- 🏫 Currently, in **final year (7th Semester).**
+- 🏫 Currently, in **final year (8th Semester).**
 
 - ⚡ Striving to join the top **1% MERN Developers.**
 

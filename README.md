@@ -26,40 +26,43 @@
 </p>
 
 <h3><img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="18" height="18"> Tech Stack:</h3>
-<p> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
+<p>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30"></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" height="30"></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="45" height="45"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="30"></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>&nbsp;
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-   <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="30"></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="30"></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="30"></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30"></a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white" alt="Socket.io" height="30"></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/></a>&nbsp;
-   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" height="30"></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" alt="Jest" height="30"></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;
-   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
 </p>
+
 
 <h3>Holopin Board of Rewards:</h3>
 

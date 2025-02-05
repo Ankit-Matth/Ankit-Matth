@@ -32,7 +32,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30"></a>
+    <img src="https://img.shields.io/badge/-JavaScript-E10098?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30"></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" height="30"></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -42,7 +42,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="30"></a>
+    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="33"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="30"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -58,9 +58,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="32"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
+    <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
 </p>
 
 

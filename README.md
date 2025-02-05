@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
 <h3 align="center">🎓Engineering Student | ✨Aspiring MERN Stack Developer | 🎧Music Lover</h3>
-
-<img align="right" alt="coding" width="350" src="https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31">
+<!-- https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31 -->
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
 <br>
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)

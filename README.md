@@ -54,7 +54,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="32"></a>
+    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="30"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="30"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="31"></a>
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
 </p>

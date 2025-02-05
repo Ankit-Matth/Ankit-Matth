@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
 <h3 align="center">🎓Engineering Student | ✨Aspiring MERN Stack Developer | 🎧Music Lover</h3>
 <!-- https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31 -->
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
+<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
 <br>
 
 - 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
@@ -54,25 +54,25 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" height="30"></a>
+    <img src="https://img.shields.io/badge/-Express-FE7A16?logo=express&logoColor=white" alt="Express" height="30"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="30"></a>
+    <img src="https://img.shields.io/badge/-React-00CCBB?logo=react&logoColor=white" alt="React" height="30"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30"></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white" alt="Socket.io" height="30"></a>
+    <img src="https://img.shields.io/badge/-Socket.io-%23FF4500.svg?logo=socket.io&logoColor=white" alt="Socket.io" height="30"></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" height="30"></a>
+    <img src="https://img.shields.io/badge/-Cypress-EAB300?logo=cypress&logoColor=white" alt="Cypress" height="30"></a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" alt="Jest" height="30"></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
+    <img src="https://img.shields.io/badge/-Vercel-17202C?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
+    <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
 </p>
 
 

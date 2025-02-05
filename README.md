@@ -70,7 +70,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Vercel-17202C?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
+    <img src="https://img.shields.io/badge/-Vercel-%23D90007.svg?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
 </p>

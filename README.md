@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Matth</h1>
+<h1 align="center">Hi👋, I'm Ankit Matth</h1>
 <h4 align="center">AI-focused Full Stack Engineer | Open Source Contributor | Freelance Developer | BTech CSE ’25 Graduate</h4>
 <br>
 <table align="center">

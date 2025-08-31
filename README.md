@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
 <h4 align="center">AI-focused Full Stack Engineer | Open Source Contributor | Freelance Developer | BTech CSE ’25 Graduate</h4>
 <br>
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1; min-width: 250px;">
-    <img alt="coding" width="250" src="https://github.com/user-attachments/assets/90a85a94-3fb5-4d06-88b3-e8b136c949b9">
-  </div>
-
-  <div style="flex: 2; min-width: 250px;">
+<table align="center">
+  <tr>
+    <td>
+      <img alt="coding" width="250" src="https://github.com/user-attachments/assets/90a85a94-3fb5-4d06-88b3-e8b136c949b9">
+    </td>
+    <td>
 
 - ⚡ Striving to join the top **1% MERN Developers.**
 
@@ -16,8 +16,10 @@
 
 - 📧 Feel free to email me at -- **ankitmatth101@gmail.com**
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 
 <h2 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="23" height="23"> Let's Connect:</h2>

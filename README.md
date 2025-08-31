@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
 <h4 align="center">AI-focused Full Stack Engineer | Open Source Contributor | Freelance Developer | BTech CSE ’25 Graduate</h4>
 <!-- https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31 -->
-<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
+<img align="right" alt="coding" width="280" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
 <br>
 
 - ⚡ Striving to join the top **1% MERN Developers.**
@@ -56,9 +56,9 @@
 <img src="https://img.shields.io/badge/-SQL-000000?logo=database&logoColor=white" alt="SQL" height="30">
 <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=white" alt="Docker" height="30">
 <img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white" alt="Figma" height="30">
-<img src="https://img.shields.io/badge/-React%20Testing%20Library-000000?logo=testinglibrary&logoColor=white" alt="React Testing Library" height="30">
-<img src="https://img.shields.io/badge/-Jest-000000?logo=jest&logoColor=white" alt="Jest" height="30">
 <img src="https://img.shields.io/badge/-Cypress-000000?logo=cypress&logoColor=white" alt="Cypress" height="30">
+<img src="https://img.shields.io/badge/-Jest-000000?logo=jest&logoColor=white" alt="Jest" height="30">
+<img src="https://img.shields.io/badge/-React%20Testing%20Library-000000?logo=testinglibrary&logoColor=white" alt="React Testing Library" height="30">
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30">
 <img src="https://img.shields.io/badge/AWS-000000?logo=googlecloud&logoColor=white" alt="AWS" height="30">
 <img src="https://img.shields.io/badge/-C%20/%20C++-000000?logo=cplusplus&logoColor=white" alt="C++" height="30">

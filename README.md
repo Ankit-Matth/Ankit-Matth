@@ -14,34 +14,10 @@
 
 - 🎓 Graduated **B.Tech (CSE)** from [BRCM-CET](https://www.brcmcet.edu.in/) (2025). 
 
-- 📧 Feel free to email me at -- **ankitmatth101@gmail.com**
-
+- 📧 Feel free to email me at -- **ankitmatth101@gmail.com**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
     </td>
   </tr>
 </table>
-
-
-
-<h2 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="23" height="23"> Let's Connect:</h2>
-
-<p style="display: flex; align-items: center; gap: 5px;">
-  <a href="https://linkedin.com/in/ankit-matth" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-  <a href="https://www.leetcode.com/ankit-matth" target="blank">
-    <img src="https://github.com/user-attachments/assets/adf2daaf-813f-4ec2-be2d-38f8c62dd3f1" alt="LeetCode" height="39" width="36" /></a>
-  <a href="https://instagram.com/ankit_matth_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="39" width="45" /></a>
-  <a href="https://x.com/ankit_matth" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebae29ef-a00a-421b-b7b3-6c175c5fa24c">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a603b07-4337-40fe-a91d-40a4ea2fc24f">
-      <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="38" width="45">
-    </picture> 
-  </a>
-  <a href="https://ankit-matth-portfolio.vercel.app/" target="blank">
-    <img src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="Portfolio" height="37" width="39" />
-  </a>
-</p>
 
 <h1><img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> Tech Stack:</h1>
 <p>
@@ -80,6 +56,26 @@
 <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=white" alt="Git" height="30">
 </p>
 
+<h2 align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="23" height="23"> Let's Connect:</h2>
+
+<p style="display: flex; align-items: center; gap: 5px;">
+  <a href="https://linkedin.com/in/ankit-matth" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+  <a href="https://www.leetcode.com/ankit-matth" target="blank">
+    <img src="https://github.com/user-attachments/assets/adf2daaf-813f-4ec2-be2d-38f8c62dd3f1" alt="LeetCode" height="39" width="36" /></a>
+  <a href="https://instagram.com/ankit_matth_" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="39" width="45" /></a>
+  <a href="https://x.com/ankit_matth" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebae29ef-a00a-421b-b7b3-6c175c5fa24c">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a603b07-4337-40fe-a91d-40a4ea2fc24f">
+      <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="38" width="45">
+    </picture> 
+  </a>
+  <a href="https://ankit-matth-portfolio.vercel.app/" target="blank">
+    <img src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="Portfolio" height="37" width="39" />
+  </a>
+</p>
 
 <h3>Holopin Board of Rewards:</h3>
 

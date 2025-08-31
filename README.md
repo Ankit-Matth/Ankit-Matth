@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankit Matth</h1>
-<h3 align="center">🎓Engineering Student | ✨Aspiring MERN Stack Developer | 🎧Music Lover</h3>
+<h4 align="center">AI-focused Full Stack Engineer | Open Source Contributor | Freelance Developer | BTech CSE ’25 Graduate</h4>
 <!-- https://github.com/Ankit-Matth/Ankit-Matth/assets/146843890/fde4cb18-e27c-46f6-a714-46cdefaa1d31 -->
 <img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/1a96906d-fd7f-4c9d-be24-18d7b60d4581">
 <br>
-
-- 🎓 Doing B.Tech(CSE) from [BRCM-CET.](https://www.brcmcet.edu.in/)
-
-- 🏫 Currently, in **final year (8th Semester).**
 
 - ⚡ Striving to join the top **1% MERN Developers.**
 
 - 💬 Ask me about **Frontend, Backend, & Databases.**
 
-- 👨‍💻 I’m currently learning **Data Structures & Algorithms.**
+- 🎓 Graduated **B.Tech (CSE)** from [BRCM-CET](https://www.brcmcet.edu.in/) (2025). 
 
 - 📧 Feel free to email me at -- **ankitmatth101@gmail.com**
 
@@ -30,7 +26,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebae29ef-a00a-421b-b7b3-6c175c5fa24c">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a603b07-4337-40fe-a91d-40a4ea2fc24f">
       <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="38" width="45">
-    </picture>
+    </picture> 
   </a>
   <a href="https://ankit-matth-portfolio.vercel.app/" target="blank">
     <img src="https://github.com/Ankit-Matth/my-portfolio/blob/main/frontend/public/favicon.ico" alt="Portfolio" height="37" width="39" />
@@ -39,40 +35,39 @@
 
 <h1><img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="25" height="25"> Tech Stack:</h1>
 <p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-JavaScript-E10098?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30"></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" height="30"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="30"></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="30"></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="30"></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Express-FE7A16?logo=express&logoColor=white" alt="Express" height="30"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React-00CCBB?logo=react&logoColor=white" alt="React" height="30"></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30"></a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Socket.io-%23FF4500.svg?logo=socket.io&logoColor=white" alt="Socket.io" height="30"></a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Cypress-EAB300?logo=cypress&logoColor=white" alt="Cypress" height="30"></a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" alt="Jest" height="30"></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="30"></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Vercel-%23D90007.svg?logo=vercel&logoColor=white" alt="Vercel" height="30"></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" height="30"></a>
+<img src="https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=white" alt="HTML" height="30">
+<img src="https://img.shields.io/badge/-CSS3-000000?logo=css3&logoColor=white" alt="CSS" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=white" alt="Javascript" height="30">
+<img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=white" alt="Bootstrap" height="30">
+<img src="https://img.shields.io/badge/-TailwindCSS-000000?logo=tailwindcss&logoColor=white" alt="TailwindCSS" height="30">
+<img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30">
+<img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=white" alt="React" height="30">
+<img src="https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=white" alt="TypeScript" height="30">
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="30">
+<img src="https://img.shields.io/badge/-Redux-000000?logo=redux&logoColor=white" alt="Redux" height="30">
+<img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=white" alt="Node.js" height="30">
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="30">
+<img src="https://img.shields.io/badge/-Puppeteer-000000?logo=puppeteer&logoColor=white" alt="Puppeteer" height="30">
+<img src="https://img.shields.io/badge/-Socket.io-000000?logo=socket.io&logoColor=white" alt="Socket.io" height="30">
+<img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=white" alt="MongoDB" height="30">
+<img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=white" alt="MySQL" height="30">
+<img src="https://img.shields.io/badge/-VectorDB-000000?logo=databricks&logoColor=white" alt="VectorDB" height="30">
+<img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=white" alt="Postman" height="30">
+<img src="https://img.shields.io/badge/-SQL-000000?logo=database&logoColor=white" alt="SQL" height="30">
+<img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=white" alt="Docker" height="30">
+<img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white" alt="Figma" height="30">
+<img src="https://img.shields.io/badge/-React%20Testing%20Library-000000?logo=testinglibrary&logoColor=white" alt="React Testing Library" height="30">
+<img src="https://img.shields.io/badge/-Jest-000000?logo=jest&logoColor=white" alt="Jest" height="30">
+<img src="https://img.shields.io/badge/-Cypress-000000?logo=cypress&logoColor=white" alt="Cypress" height="30">
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="30">
+<img src="https://img.shields.io/badge/AWS-000000?logo=googlecloud&logoColor=white" alt="AWS" height="30">
+<img src="https://img.shields.io/badge/-C%20/%20C++-000000?logo=cplusplus&logoColor=white" alt="C++" height="30">
+<img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=white" alt="Python" height="30">
+<img src="https://img.shields.io/badge/-DSA-000000?logo=thealgorithms&logoColor=white" alt="DSA" height="30">
+<img src="https://img.shields.io/badge/-OOPs-000000?logo=codecrafters&logoColor=white" alt="OOPs" height="30">
+<img src="https://img.shields.io/badge/-SDLC-000000?logoColor=white" alt="SDLC" height="30">
+<img src="https://img.shields.io/badge/-DBMS-000000?logo=databricks&logoColor=white" alt="DBMS" height="30">
+<img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=white" alt="Git" height="30">
 </p>
 
 
